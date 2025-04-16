@@ -1,0 +1,15 @@
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\bin\Debug\net8.0\A3TaskOne.exe
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\bin\Debug\net8.0\A3TaskOne.deps.json
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\bin\Debug\net8.0\A3TaskOne.runtimeconfig.json
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\bin\Debug\net8.0\A3TaskOne.dll
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\bin\Debug\net8.0\A3TaskOne.pdb
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\A3TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\A3TaskOne.AssemblyInfoInputs.cache
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\A3TaskOne.AssemblyInfo.cs
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\A3TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\A3TaskOne.sourcelink.json
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\A3TaskOne.dll
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\refint\A3TaskOne.dll
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\A3TaskOne.pdb
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\A3TaskOne.genruntimeconfig.cache
+C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A3\AGoldberg_ADS103_A3_Tasks\A3TaskOne\obj\Debug\net8.0\ref\A3TaskOne.dll
