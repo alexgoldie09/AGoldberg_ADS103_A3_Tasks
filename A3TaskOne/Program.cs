@@ -23,10 +23,10 @@ public class Program
         AddToAVL(avl, data);
 
         // Call menu loop
-        MenuDisplay();
+        MenuDisplay(data);
     }
 
-    private static void MenuDisplay()
+    private static void MenuDisplay(int[] randomData)
     {
         while(!hasQuit)
         {
@@ -38,7 +38,7 @@ public class Program
             int input = GetValidInput();
 
             Console.Clear();
-            MenuSwitch(input);
+            MenuSwitch(input, randomData);
 
             if (!hasQuit)
             {
@@ -48,12 +48,12 @@ public class Program
         }
     }
 
-    private static void MenuSwitch(int input)
+    private static void MenuSwitch(int input, int[] randomData)
     {
         switch (input)
         {
             case 1:
-                SearchForNumberInDataStructures();
+                SearchForNumberInDataStructures(randomData);
                 break;
             case 2:
                 hasQuit = true;
@@ -77,8 +77,10 @@ public class Program
         }
     }
 
-    private static void SearchForNumberInDataStructures()
+    private static void SearchForNumberInDataStructures(int[] randomData)
     {
+        ShowSampleHelpNumbers(randomData);
+
         Console.Write("Enter the number to search for: ");
         string? input = Console.ReadLine();
         if (!int.TryParse(input, out int data))
@@ -109,6 +111,28 @@ public class Program
             nums[i] = rand.Next(1, 1000000);
         }
         return nums;
+    }
+
+    private static void ShowSampleHelpNumbers(int[] randomData)
+    {
+        if (randomData == null || randomData.Length == 0) return;
+
+        Random rand = new Random();
+        List<int> sample = new List<int>();
+
+        while (sample.Count < 10)
+        {
+            int index = rand.Next(randomData.Length);
+            int value = randomData[index];
+
+            if (!sample.Contains(value))
+            {
+                sample.Add(value);
+            }
+        }
+
+        Console.WriteLine("\nIf you need help, these numbers exist in the data:");
+        Console.WriteLine(string.Join(", ", sample));
     }
 
     private static void AddToLinkedList(LinkedList<int> list, int[] data)
